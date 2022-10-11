@@ -8,11 +8,12 @@ I take no responsibility if any of this configuration kills you or your cat, cau
 My Ender 5 is powered by a Raspberry Pi 4 2GB model running Debian/Raspbian BullsEye
 
 ## Software installed
-**[KIAUH](https://github.com/th33xitus/kiauh)** is used to install the following software suites
+**[KIAUH](https://github.com/th33xitus/kiauh)** is used to automatically install the following software suites
 - [Klipper](https://github.com/Klipper3d/klipper)
 - [Moonraker](https://github.com/Arksine/moonraker)
 - [Mainsail](https://docs.mainsail.xyz)
 - [Mooncord](https://github.com/eliteschwein/mooncord.git)
-- [PGCode](https://github.com/Kragrathea/pgcode.git)
+- [PrettyGCode](https://github.com/Kragrathea/pgcode.git)
+- [KlipperScreen](https://github.com/jordanruthe/KlipperScreen)
 - [Moonraker-Timelapse](https://github.com/mainsail-crew/moonraker-timelapse.git)
 - [MJPEG Streamer](https://github.com/jacksonliam/mjpg-streamer.git) (For Webcams and Timelapse)
